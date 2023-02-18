@@ -151,7 +151,7 @@ def user_input_date_secs():
             print("Please type in a valid number! (between 1 to 59)")
     return 
 ```
-These functions gets the respective parameters for the user's set datetime (year, month, day, hours, minutes, second), and checks if the user's make sense
+These functions gets the respective parameters for the user's set datetime (year, month, day, hours, minutes, second), and checks if the user's input make sense
 in the context. e.g. Year must be an int, up till 2100, and must be larger than the present year. Month must be a number between 1 to 12. 
 Minutes must be a number from 1 to 59.
 
