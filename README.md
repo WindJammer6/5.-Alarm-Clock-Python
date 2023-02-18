@@ -282,6 +282,10 @@ Enter any input to stop sound: w
 Intentionally typed in wrong time to show how code reacts to invalid time set. During alarm ringing, default sound will play. After input entered, sound will
 stop playing.
 
+<br>
+
+<br>
+
 ## Thoughts after the project
 This project helped me to expand my knowledge on other Python libraries (datetime, time, winsound), and showed me new path to learn programming: 
 Through the learning of libraries.
