@@ -5,9 +5,9 @@ A simple Alarm Clock in Python (24hr, No GUI). Python libraries used: datetime, 
 My fifth programming project, in Python. 
 
 I wanted to explore different libraries present in Python. The idea came up when looking at how people made an alarm clock project in Python and realising they
-are importing libraries with commands I had no idea how to use. like datetime, time and winsound.
+are importing libraries with commands I had no idea how to use, like datetime, time and winsound.
 
-I started by learning through practicing with Youtube tutorials on the individiaul libraries, then bringing them together to make this Alarm Clock project., well
+I started by learning through practicing with Youtube tutorials on the individiaul libraries, then bringing them together to make this Alarm Clock project. Well
 of course, with inspiration online, even though many of them had a GUI function (with tkinter library) with it, when I wanted to make a non-GUI one first.
 
 <br>
