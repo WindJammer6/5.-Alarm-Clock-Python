@@ -290,7 +290,7 @@ stop playing.
 This project helped me to expand my knowledge on other Python libraries (datetime, time, winsound), and showed me new path to learn programming: 
 Through the learning of libraries.
 
-I believe that nowadays more frequently used libraries in the workplace in machine learning and data analysis are NumPy, Pandas, PyTorch, Matplotlib. 
+I believe that nowadays more frequently used libraries in the workplace in machine learning and data analysis are NumPy, Pandas, PyTorch, Matplotlib, etc. 
 
 May start moving in that direction to make my Python knowledge into a professional skillset in the real world.
 
