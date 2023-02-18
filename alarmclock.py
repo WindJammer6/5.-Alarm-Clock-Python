@@ -45,7 +45,7 @@ def main():
 
             time_set = datetime.datetime(a, b, c, x, y, z)
 
-            dt_diff = time_set - datetime_today
+            dt_diff = time_set - datetime.datetime.today()
 
             if dt_diff >= tdelta:
                 break
